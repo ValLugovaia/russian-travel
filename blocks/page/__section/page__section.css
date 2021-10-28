@@ -1,0 +1,15 @@
+.page__section {
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+    .page__section {
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .page__section {
+        margin-bottom: 64px;
+    }
+}
