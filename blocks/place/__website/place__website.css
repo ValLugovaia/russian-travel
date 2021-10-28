@@ -1,20 +1,5 @@
 .place__website {
     grid-area: website;
     margin: 0;
-    font-size: 18px;
-    line-height: 1.6;
     align-self: end;
-}
-
-@media screen and (max-width: 768px) {                             
-    .place__website {
-        font-size: 16px;
-    }
-}
-
-@media screen and (max-width: 320px) {                                            
-    .place__website {
-        margin: 32px 16px;
-        font-size: 16px;
-    }
 }
