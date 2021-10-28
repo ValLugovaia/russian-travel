@@ -7,4 +7,4 @@
 2. Сгладить сжатие на брейкпойнтах.
 3. Внедрить английскую языковую версию.
 
-Ссылка на GitHub Pages — []
+Ссылка на GitHub Pages — [https://vaalit.github.io/russian-travel/]
