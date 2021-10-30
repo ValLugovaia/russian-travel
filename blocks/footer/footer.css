@@ -1,27 +1,21 @@
 .footer {
-    width: 93%;
-    margin: auto;
-    font-size: 16px;
-    line-height: 1.1;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-@media screen and (max-width: 1024px) {                               
+@media screen and (max-width: 1023px) {                                    
     .footer {
-        width: 91%;
-    }
-}
-
-@media screen and (max-width: 768px) {                                    
-    .footer {
-        width: 90%;
+        margin-left: 24px;
+        margin-right: 24px;
         font-size: 14px;
     }
 }
 
-@media screen and (max-width: 320px) {                                                       
+@media screen and (max-width: 767px) {                                                       
     .footer {
         margin: 0 auto 24px 16px;
         display: block;

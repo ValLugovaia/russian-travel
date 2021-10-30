@@ -1,25 +1,26 @@
 .intro {
-    margin-left: calc((100vw - 984px) / 2);
+    margin-left: 148px;
     width: 690px;
 }
 
-@media screen and (max-width: 1024px) {         
+@media screen and (max-width: 1279px) {         
     .intro {
-        margin-left: calc((100vw - 928px) / 2);
+        margin-left: 48px;
     }
 }
 
-@media screen and (max-width: 768px) {                 
+@media screen and (max-width: 1023px) {                 
     .intro {
         margin-left: 24px;
         margin-right: 24px;
-        width: 92%;
+        width: 93.75%;
     }
 }
 
-@media screen and (max-width: 320px) {                          
+@media screen and (max-width: 767px) {                          
     .intro {
         margin-left: 16px;
         margin-right: 16px;
+        width: 90%;
     }
 }

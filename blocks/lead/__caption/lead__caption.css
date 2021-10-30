@@ -1,25 +1,19 @@
 .lead__caption {
-    margin: 0 calc((100vw - 984px) / 2);
-    text-align: left;
-    width: 158px;
     font-size: 10px;
     line-height: 1.4;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
 }
 
-@media screen and (max-width: 1024px) {      
+@media screen and (max-width: 1023px) {       
     .lead__caption {
-        margin: 0 calc((100vw - 928px) / 2);
+        margin-left: 24px;
     }
 }
 
-@media screen and (max-width: 768px) {             
+@media screen and (max-width: 767px) {                
     .lead__caption {
-        margin: 0;
+        margin-left: 16px;
     }
 }
 
-@media screen and (max-width: 320px) {                      
-    .lead__caption {
-        margin: 0;
-    }
-}
