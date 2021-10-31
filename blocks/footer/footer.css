@@ -1,23 +1,30 @@
 .footer {
-    margin-left: 48px;
-    margin-right: 48px;
+    margin-left: 0;
+    margin-right: 0;
     margin-bottom: 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+@media screen and (max-width: 1279px) {                                    
+    .footer {
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
 @media screen and (max-width: 1023px) {                                    
     .footer {
         margin-left: 24px;
         margin-right: 24px;
-        font-size: 14px;
     }
 }
 
 @media screen and (max-width: 767px) {                                                       
     .footer {
-        margin: 0 auto 24px 16px;
+        margin-left: 16px;
+        margin-right: auto;
         display: block;
     }
 }
