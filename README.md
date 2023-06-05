@@ -13,7 +13,7 @@
 5. Адаптивная вёрстка
 
 ## Ссылки
-1. [GitHub Pages](https://vallugovaia.github.io/russian-travel/)
+1. [Ссылка на сайт](http://cw03911.tw1.ru/)
 2. [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ## Планы по доработке
